@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b82fa6da379d614ab34c5968a4b0ced, type: 3}
+  m_Name: StartStage1
+  m_EditorClassIdentifier: 
+  Character1_Talk1: "\"Tassro\" \n\uC815\uAE00\uC5D0 \uC0AC\uB294 \uB3C4\uB78C\uC774
+    \uC758\uB8B0\uC57C \n\uB3C4\uB451\uB9DE\uC740 \uB3C4\uD1A0\uB9AC\uB97C \uB418\uCC3E\uC544\uB2EC\uB77C\uB294
+    \uC758\uB8B0\uAC00 \uB4E4\uC5B4\uC654\uC5B4 "
+  Character1_Talk2: "\uBE60\uB974\uAC8C \uB2E4\uB140\uC640\uC11C \uB108\uAC00 \uC88B\uC544\uD558\uB294
+    \uAE30\uB984 \uC8FC\uC720 \uAC00\uB4DD \uD574\uC904\uAC8C "
+  Character2_Talk1: "\uC090\uC090\uC091 (\uB3C4\uB78C\uC774\uAC00 \uBC30\uACE0\uD504\uC9C0
+    \uC54A\uAC8C \uBE60\uB974\uAC8C \uAC00\uC57C\uACA0\uAD70\uC694)"
+  Character2_Talk2: "\uC090\uC090\uBE45!!(\uADF8\uB7FC \uB2E4\uB140 \uC624\uACA0\uC2B5\uB2C8\uB2E4~~~!!)"
